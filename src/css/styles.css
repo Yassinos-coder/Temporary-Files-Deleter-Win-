@@ -1,0 +1,80 @@
+body {
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;
+    margin: auto;
+    max-width: 38rem;
+    padding: 2rem;
+    background-image: url("../img/background.png");
+    font-size: 1em;
+}
+
+.h1 {
+    font-size: 34px;
+    color: black;
+    font-weight: bold;
+}
+
+#HomeScreen {
+    width: 600px;
+    height: 290px;
+    margin-left: -26px;
+    /* background-color: aqua; */
+    margin-top: 50px;
+    text-align: center;
+    border-radius: 5px 5px 5px 5px;
+}
+
+.btn1 {
+    margin-top: 45px;
+    margin-left: 12px;
+}
+
+.btnopt {
+    padding: 12px;
+    padding-left: 20px;
+}
+
+#buttontmp {
+    padding-top: 10px;
+    padding-right: 13px;
+}
+
+#buttontmp2 {
+    padding-top: 10px;
+}
+
+#buttontmp3 {
+    padding-top: 10px;
+}
+
+
+/* ------------------------- */
+
+#downfoot {
+    margin-bottom: -34px;
+    margin-left: -116px;
+    background-color: grey;
+    width: 771px;
+    color: black;
+    font-size: 15px;
+    font-weight: bold;
+}
+
+.myipp {
+    margin-left: 8px;
+}
+
+.myip {
+    color: black;
+    margin-top: -38px;
+    margin-left: 85px;
+}
+
+.urhost {
+    margin-left: 500px;
+    margin-top: -38px;
+}
+
+.myhost {
+    margin-top: -38px;
+    margin-left: 639px;
+}
